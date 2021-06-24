@@ -17,3 +17,4 @@ elif select == "Division":
     calc = int(a)/int(b)
 if st.button("CALCULATE"):
     st.sidebar.title(f"The {select} of {a} and {b} is {calc}")
+ 
